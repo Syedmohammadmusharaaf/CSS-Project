@@ -1,0 +1,205 @@
+#one {
+    display: flex;
+    justify-content: space-between;
+}
+
+#one1 {
+    text-decoration: none;
+}
+
+#two {
+    text-decoration: none;
+}
+#pho1{
+    color: red;
+}
+#button1{
+    background-color: green;
+}
+#button2{
+    background-color:palevioletred;
+}
+#div1{
+    display: flex;
+    justify-content: space-between;
+}
+.first{
+    text-decoration: none;
+    font-size:large;
+    font-family: cursive;
+
+}
+#div2{
+    border: 3px solid black;
+    padding-left: 63.5%;
+
+}
+#tech1{
+    color: green;
+    font-family: cursive;
+}
+#introvid{
+    margin-left: 60%;
+    margin-top: -20%;
+}
+#pre{
+    font-size: large;
+}
+#freedemo{
+    background-color: rgb(0, 255, 89);
+    font-size: large;
+    text-decoration: none;
+    
+}
+#watchd{
+    margin-left: 10%;
+}
+#pics{
+    border: 3px solid black;
+}
+#pc3{
+    margin-left: 10%;
+    margin-top: 15%;
+}
+#aug{
+
+    color: rgba(0, 0, 255, 0.592);
+}
+#students{
+    color: goldenrod;
+    
+}
+#cen{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+#ali{
+    display: flex;
+    justify-content: space-between;
+}
+#push{
+    margin-top: -12%;
+}
+#fvg{
+    background-color: aquamarine;
+}
+#play{
+    margin-left: 60%;
+    margin-top: -15%;
+}
+#poll{
+    background-color: aquamarine;
+}
+#drive{
+    font-family: cursive;
+    color: goldenrod;
+}
+#ali1{
+    display: flex;
+    justify-content: space-between;
+}
+#ali2{
+    display: flex;
+    justify-content: space-between;
+}
+#h3{
+    margin-left: 20%;
+}
+#regi{
+    background-color: green;
+    margin-left: 60%;
+    margin-bottom: -15%;
+}
+#col{
+    background-color: burlywood;
+}
+.pind{
+    background-color:lightseagreen;
+}
+#man{
+    background-color: aqua;
+}
+#arr1{
+    width: 50%;
+    float: left;
+}
+#arr2{
+    width: 50%;
+    float: right;
+}
+#log{
+    display: flex;
+    justify-content: space-between;
+
+}
+#logo1{
+    margin-left: 33.33%;
+    margin-top: -12%;
+}
+#logo2{
+    margin-left: 66.66%;
+    margin-top: -12%;
+}
+#f1{
+    background-color: aqua;
+}
+
+#res{
+    text-decoration: none;
+    background-color: green;
+
+}
+#g1{
+    display: flex;
+    justify-content: space-between;
+    border: 3px ridge blue;
+    background-color: aqua;
+}
+.g2{
+    display: flex;
+    justify-content: space-between;
+}
+#g3{
+    color:blueviolet;
+}
+#g5{
+
+    background-color: aqua;
+}
+#g6{
+
+    text-decoration: none;
+}
+#g9{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#g10{
+    margin-top: 6%;
+}
+#g15{
+    display: flex;
+    justify-content: space-between;
+}
+#g20{
+
+    text-decoration: none;
+}
+#g21{
+
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
